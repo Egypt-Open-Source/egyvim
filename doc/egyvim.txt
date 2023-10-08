@@ -1,0 +1,15 @@
+================================================================================
+                                                             *egyvim*
+
+EgyVim is not a distribution, it is just a config written by an Egyptian dev
+for Egyptian devs to make neovim act as IDE :)
+
+*Features*
+============
+* Most of things are configured out of the box
+* Nice theme by `rose-pine`, `tokyonight`, `catppuccin`
+* Tree file explorer by `nvim-tree`
+* `Lspconfig` enabled by default
+* Fuzzy finder using `Telescope.nvim`
+
+vim:tw=78:ts=8:ft=help:norl:
